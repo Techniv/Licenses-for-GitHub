@@ -1,7 +1,7 @@
 GNU Global Public Licence
 =========================
 
-![GNU GPL v3.0](http://www.gnu.org/graphics/gplv3-127x51.png)
+[![GNU GPL v3.0](http://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl.html)
 
 View official GNU site <http://www.gnu.org/licenses/gpl.html>.
 
@@ -19,6 +19,7 @@ View official GNU site <http://www.gnu.org/licenses/gpl.html>.
    _from GNU official web site_
  - [A Practical Guide to GPL Compliance](http://www.softwarefreedom.org/resources/2008/compliance-guide.html) - 
    _from Software Freedom Law Center_
+
 
 # GNU GPL v3.0
 ## Source :
