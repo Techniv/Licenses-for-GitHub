@@ -22,5 +22,5 @@ termes d'utilistations ou tout autres termes contractuels.
 ---
 English version comming soon...
 
-You want translate anything in any langage ? Fork this repository.
+You want translate something in any langage ? Fork this repository.
 ---
