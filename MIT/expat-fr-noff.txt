@@ -1,0 +1,17 @@
+Copyright (c) <année> <détenteurs>
+
+L’autorisation est accordée, à titre gratuit, à toute personne obtenant une copie de ce logiciel 
+et des documents associées (le "Logiciel") , pour interagir avec le Logiciel sans restriction, 
+ni limitation des droits d'utilisation, copie, modification, fusion, publication, distribution, 
+sous-licenciation et/ou vente de copie du Logiciel et permettre au personne à qui le Logiciel est 
+fournis de faire de même, sous réserve des condition suivantes :
+
+L'avis de copyright ci-dessus et cet avis de permission seront inclus dans toutes les copies 
+ou parties substantielles du Logiciel.
+
+LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, 
+Y COMPRIS, MAIS SANS S'Y LIMITER, LA GARANTIE DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE 
+PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS, LES AUTEURS OU DÉTENTEUR DE DROITS D'AUTEUR 
+NE SERONT TENUS RESPONSABLES, QUE CE SOIT DANS LE CADRE D'UN CONTRAT, D'UN DÉLIT, OU AUTRE, 
+DÉCOULANT DE OU EN RELATION AVEC LE LOGICIEL, SON UTILISATION OU TOUS AUTRES INTERACTIONS AVEC 
+LE LOGICIEL. 
