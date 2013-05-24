@@ -5,6 +5,10 @@ GNU Global Public Licence
 
 View official GNU site <http://www.gnu.org/licenses/gpl.html>.
 
+[![OSI](http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png)](http://opensource.org/licenses/mit-license.php)
+
+[View the Open Source Initiative site.](http://opensource.org/licenses/mit-license.php)
+
 ### Related : 
  - [Wikipedia - GNU General Public License](http://en.wikipedia.org/wiki/GNU_General_Public_License) - 
    [(fr)](http://fr.wikipedia.org/wiki/Licence_publique_générale_GNU)
